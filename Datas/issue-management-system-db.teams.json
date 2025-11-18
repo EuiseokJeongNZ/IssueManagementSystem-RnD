@@ -1,0 +1,32 @@
+[{
+  "_id": {
+    "$oid": "68f8d1f19b620f9fc339a36f"
+  },
+  "team_id": 2,
+  "team_name": "Automated Classification of Structural \nDamage",
+  "project_title": "Computer Vision Technologies"
+},
+{
+  "_id": {
+    "$oid": "68f8d1f19b620f9fc339a36e"
+  },
+  "team_id": 1,
+  "team_name": "Issue Management System",
+  "project_title": "Smart Campus Portal"
+},
+{
+  "_id": {
+    "$oid": "68f8d1f19b620f9fc339a371"
+  },
+  "team_id": 4,
+  "team_name": "Release Readiness & Defect Dashboard",
+  "project_title": "IT Service Management Suite"
+},
+{
+  "_id": {
+    "$oid": "68f8d1f19b620f9fc339a370"
+  },
+  "team_id": 3,
+  "team_name": "Incident Reporting & Resolution Portal",
+  "project_title": "IT Service Management Suite"
+}]

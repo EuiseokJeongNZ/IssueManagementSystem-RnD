@@ -1,0 +1,28 @@
+[{
+  "_id": {
+    "$oid": "68f8d23f9b620f9fc339a384"
+  },
+  "mentor_user_id": 2,
+  "team_id": 2
+},
+{
+  "_id": {
+    "$oid": "68f8d23f9b620f9fc339a386"
+  },
+  "mentor_user_id": 3,
+  "team_id": 4
+},
+{
+  "_id": {
+    "$oid": "68f8d23f9b620f9fc339a383"
+  },
+  "mentor_user_id": 2,
+  "team_id": 1
+},
+{
+  "_id": {
+    "$oid": "68f8d23f9b620f9fc339a385"
+  },
+  "mentor_user_id": 3,
+  "team_id": 3
+}]

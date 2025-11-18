@@ -1,0 +1,147 @@
+[{
+  "_id": {
+    "$oid": "68f8d20c9b620f9fc339a376"
+  },
+  "user_id": 5,
+  "user_autId": "stud002",
+  "name": "Bishop Lui",
+  "email": "fpg4632@autuni.ac.nz",
+  "password": "$2b$10$EP780B.cVpiJIFj9njmsxOC8eljjzGoeEPs8nsaDZuRUD5kTg.vqu",
+  "role_id": 3,
+  "address": "N/A",
+  "city": "N/A",
+  "mobile": "0213333333",
+  "updatedAt": {
+    "$date": "2025-10-26T11:27:57.880Z"
+  },
+  "zip_code": "1010"
+},
+{
+  "_id": {
+    "$oid": "68f8d20c9b620f9fc339a375"
+  },
+  "user_id": 4,
+  "user_autId": "njk7290",
+  "name": "Euiseok Jeong",
+  "email": "njk7290@autuni.ac.nz",
+  "password": "$2b$10$rpK.1P9tEMNujBXvAq0MwO6OHGcPc6IlwAEHr8lquJVmoFd9vKaBW",
+  "role_id": 3,
+  "address": "110 Grfton Road, Grafton",
+  "city": "Auckland",
+  "mobile": "0273633954",
+  "updatedAt": {
+    "$date": "2025-10-26T11:22:00.331Z"
+  },
+  "zip_code": "1010",
+  "avatar_url": "https://issue-management-system-photo-upload.s3.ap-southeast-2.amazonaws.com/avatars/eab41688-1db3-464e-80db-746e29cf2caf.png"
+},
+{
+  "_id": {
+    "$oid": "68f8d20c9b620f9fc339a37a"
+  },
+  "user_id": 9,
+  "user_autId": "stud006",
+  "name": "Grace Cole",
+  "email": "gcl1840@autuni.ac.nz",
+  "password": "$2b$10$Fz5unCFchxBHA.qrOah0GeHq.t0PpxuTUbuW8xHuOuHv7DAxrL3zK",
+  "role_id": 3,
+  "address": "17 Dominion Road, Mount Eden",
+  "city": "Auckland",
+  "mobile": "0215550465",
+  "updatedAt": {
+    "$date": "2025-10-26T11:49:06.041Z"
+  },
+  "zip_code": "1010"
+},
+{
+  "_id": {
+    "$oid": "68f8d20c9b620f9fc339a379"
+  },
+  "user_id": 8,
+  "user_autId": "stud005",
+  "name": "Frank Parker",
+  "email": "fpk1058@autuni.ac.nz",
+  "password": "$2b$10$aJhBiJ1x/fbEKx0Q.uiXf.mxlvV5h2EuqIr8Arc14mLH75HA8.XCO",
+  "role_id": 3,
+  "address": "15 Karangahape Road",
+  "city": "Auckland",
+  "mobile": "02119025873",
+  "updatedAt": {
+    "$date": "2025-10-26T11:48:11.104Z"
+  },
+  "zip_code": "1010"
+},
+{
+  "_id": {
+    "$oid": "68f8d20c9b620f9fc339a377"
+  },
+  "user_id": 6,
+  "user_autId": "stud003",
+  "name": "Chloe Turner",
+  "email": "ctn0231@autuni.ac.nz",
+  "password": "$2b$10$C.RqXOWTVynf7QDsudGmyOr8SVOTAPVnocnmkBM//wkhguB2ATbQu",
+  "role_id": 3,
+  "avatar_url": "https://issue-management-system-photo-upload.s3.ap-southeast-2.amazonaws.com/avatars/f7f802d6-20ab-4963-b158-d1d676d9fde4.png",
+  "mobile": "0215550287",
+  "updatedAt": {
+    "$date": "2025-10-26T11:45:26.340Z"
+  },
+  "address": "2 Albert Street",
+  "city": "Auckland",
+  "zip_code": "1010"
+},
+{
+  "_id": {
+    "$oid": "68f8d20c9b620f9fc339a378"
+  },
+  "user_id": 7,
+  "user_autId": "stud004",
+  "name": "Emma Lewis",
+  "email": "elw8479@autuni.ac.nc",
+  "password": "$2b$10$ugWVQq57qHu4l0AsDD8KqOanhM88DvJyxIYtRGvo5BAkmX1rrsQT.",
+  "role_id": 3,
+  "address": "15 Karangahape Road",
+  "city": "Auckland",
+  "mobile": "0215550376",
+  "updatedAt": {
+    "$date": "2025-10-26T11:46:34.552Z"
+  },
+  "zip_code": "1010"
+},
+{
+  "_id": {
+    "$oid": "68f8d20c9b620f9fc339a37b"
+  },
+  "user_id": 10,
+  "user_autId": "stud007",
+  "name": "Henry Jones",
+  "email": "hjn3905@autuni.ac.nz",
+  "password": "$2b$10$vj7LktNuUcHuavl.rWhZSuRjCKG6Zr8AlVaCObMiWT3sXjXHAs5LG",
+  "role_id": 3,
+  "address": "88 Ponsonby Road, Ponsonby",
+  "city": "Auckland",
+  "mobile": "0215550554",
+  "updatedAt": {
+    "$date": "2025-10-26T11:49:49.710Z"
+  },
+  "zip_code": "1010"
+},
+{
+  "_id": {
+    "$oid": "68fe06343c9d06735f9a588b"
+  },
+  "user_id": 11,
+  "user_autId": "stud008",
+  "name": "Yiming Wang",
+  "email": "xzn1726@autuni.ac.nz",
+  "password": "$2b$10$UCKTiMmZoQHkcf2MdezTiO.0zBgRSoliDZ56HmteF9Lh.INRyNq0S",
+  "role_id": 3,
+  "address": "N/A",
+  "city": "N/A",
+  "mobile": "0273633954",
+  "updatedAt": {
+    "$date": "2025-10-26T11:36:42.717Z"
+  },
+  "zip_code": "1010",
+  "avatar_url": ""
+}]

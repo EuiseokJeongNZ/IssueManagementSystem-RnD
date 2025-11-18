@@ -1,0 +1,64 @@
+[{
+  "_id": {
+    "$oid": "68f8d22f9b620f9fc339a37e"
+  },
+  "student_id": 3,
+  "user_id": 6,
+  "team_id": 2
+},
+{
+  "_id": {
+    "$oid": "68f8d22f9b620f9fc339a381"
+  },
+  "student_id": 6,
+  "user_id": 9,
+  "team_id": 3
+},
+{
+  "_id": {
+    "$oid": "68f8d22f9b620f9fc339a382"
+  },
+  "student_id": 7,
+  "user_id": 10,
+  "team_id": 4
+},
+{
+  "_id": {
+    "$oid": "68f8d22f9b620f9fc339a37d"
+  },
+  "student_id": 2,
+  "user_id": 5,
+  "team_id": 1
+},
+{
+  "_id": {
+    "$oid": "68f8d22f9b620f9fc339a37f"
+  },
+  "student_id": 4,
+  "user_id": 7,
+  "team_id": 2
+},
+{
+  "_id": {
+    "$oid": "68f8d22f9b620f9fc339a380"
+  },
+  "student_id": 5,
+  "user_id": 8,
+  "team_id": 3
+},
+{
+  "_id": {
+    "$oid": "68f8d22f9b620f9fc339a37c"
+  },
+  "student_id": 1,
+  "user_id": 4,
+  "team_id": 1
+},
+{
+  "_id": {
+    "$oid": "68fe07843c9d06735f9a5891"
+  },
+  "student_id": 8,
+  "user_id": 11,
+  "team_id": 1
+}]

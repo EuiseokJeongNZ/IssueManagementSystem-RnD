@@ -1,0 +1,133 @@
+[{
+  "_id": {
+    "$oid": "68fe18572d021c56ec8dfc49"
+  },
+  "issue_id": 1,
+  "submitted_by": 4,
+  "team_id": 1,
+  "issue_scope": "team",
+  "title": "Login session expires during issue submission",
+  "description": "* Users are logged out while typing a new issue after ~10 minutes of inactivity.\n* Draft is not auto-saved; all entered fields are lost.\n* Happens on Chrome/Edge desktop in Semester 1 labs.\n* Expected: persistent session or autosave until submit.\n* Impact: students avoid reporting; duplicate/verbal reports increase.",
+  "severity": "medium",
+  "impact": "group",
+  "status": "resolved",
+  "semester": 1,
+  "attachments": [
+    {
+      "key": "issues/1761482839040_kcrqu4.png",
+      "url": "https://issue-management-system-photo-upload.s3.ap-southeast-2.amazonaws.com/issues/1761482839040_kcrqu4.png",
+      "name": "login1.png",
+      "type": "image/png",
+      "size": 146994
+    },
+    {
+      "key": "issues/1761482839041_9yo5yb.png",
+      "url": "https://issue-management-system-photo-upload.s3.ap-southeast-2.amazonaws.com/issues/1761482839041_9yo5yb.png",
+      "name": "login2.png",
+      "type": "image/png",
+      "size": 149695
+    }
+  ],
+  "created_at": {
+    "$date": "2025-10-26T12:47:19.523Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68fe18fc2d021c56ec8e0b80"
+  },
+  "issue_id": 2,
+  "submitted_by": 6,
+  "team_id": 2,
+  "issue_scope": "team",
+  "title": "False positives on hairline cracks under low light",
+  "description": "* The classifier flags hairline patterns on concrete as “Severe” in <100 lux lighting.\n* Reproducible with dataset batch 2025-10-22-night-01.\n* Precision drops from 0.89 → 0.63 on the nighttime subset.\n* Expected: stable thresholding or adaptive exposure compensation.\n* Proposed: add brightness-aware preprocessing + retrain with augmented low-light images.",
+  "severity": "high",
+  "impact": "group",
+  "status": "in_progress",
+  "semester": 2,
+  "attachments": [
+    {
+      "key": "issues/1761483004375_1ippjs.png",
+      "url": "https://issue-management-system-photo-upload.s3.ap-southeast-2.amazonaws.com/issues/1761483004375_1ippjs.png",
+      "name": "1.png",
+      "type": "image/png",
+      "size": 358116
+    }
+  ],
+  "created_at": {
+    "$date": "2025-10-26T12:50:04.953Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68fe19752d021c56ec8e1797"
+  },
+  "issue_id": 3,
+  "submitted_by": 8,
+  "team_id": null,
+  "issue_scope": "individual",
+  "title": "Email notification not sent to reporter on status change",
+  "description": "* Dashboard card renders 0% although unit/E2E/coverage all pass on main.\n* Last pipeline: build#1249; API /readiness/summary returns 92.\n* Suspect rounding in client (Math.floor(undefined) → NaN → 0).\n* Expected: score equals backend value, with 1 decimal.\n* Add null-guard and unit test for empty metrics.",
+  "severity": "medium",
+  "impact": "individual",
+  "status": "open",
+  "semester": 1,
+  "attachments": [
+    {
+      "key": "issues/1761483125180_tz19kq.png",
+      "url": "https://issue-management-system-photo-upload.s3.ap-southeast-2.amazonaws.com/issues/1761483125180_tz19kq.png",
+      "name": "11.png",
+      "type": "image/png",
+      "size": 44058
+    },
+    {
+      "key": "issues/1761483125180_18cbl1.png",
+      "url": "https://issue-management-system-photo-upload.s3.ap-southeast-2.amazonaws.com/issues/1761483125180_18cbl1.png",
+      "name": "22.png",
+      "type": "image/png",
+      "size": 234550
+    },
+    {
+      "key": "issues/1761483125181_l139pu.png",
+      "url": "https://issue-management-system-photo-upload.s3.ap-southeast-2.amazonaws.com/issues/1761483125181_l139pu.png",
+      "name": "33.png",
+      "type": "image/png",
+      "size": 65106
+    }
+  ],
+  "created_at": {
+    "$date": "2025-10-26T12:52:05.557Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68fe1bc02d021c56ec8e4fdf"
+  },
+  "issue_id": 4,
+  "submitted_by": 10,
+  "team_id": 4,
+  "issue_scope": "team",
+  "title": "Release readiness score shows 0% when all checks pass",
+  "description": "* Dashboard card renders 0% although unit/E2E/coverage all pass on main.\n* Last pipeline: build#1249; API /readiness/summary returns 92.\n* Suspect rounding in client (Math.floor(undefined) → NaN → 0).\n* Expected: score equals backend value, with 1 decimal.\n* Add null-guard and unit test for empty metrics.",
+  "severity": "low",
+  "impact": "group",
+  "status": "open",
+  "semester": 1,
+  "attachments": [
+    {
+      "key": "issues/1761483712279_8kwq9l.png",
+      "url": "https://issue-management-system-photo-upload.s3.ap-southeast-2.amazonaws.com/issues/1761483712279_8kwq9l.png",
+      "name": "111.png",
+      "type": "image/png",
+      "size": 422688
+    }
+  ],
+  "created_at": {
+    "$date": "2025-10-26T13:01:52.775Z"
+  },
+  "__v": 0
+}]

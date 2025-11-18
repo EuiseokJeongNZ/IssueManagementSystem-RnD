@@ -1,0 +1,42 @@
+[{
+  "_id": {
+    "$oid": "68d8dbc9ca7e0f061d9a785e"
+  },
+  "role_id": 3,
+  "name": "student"
+},
+{
+  "_id": {
+    "$oid": "68d8dbc9ca7e0f061d9a785f"
+  },
+  "role_id": 2,
+  "name": "mentor"
+},
+{
+  "_id": {
+    "$oid": "68d8dbc9ca7e0f061d9a7860"
+  },
+  "role_id": 4,
+  "name": "moderator"
+},
+{
+  "_id": {
+    "$oid": "68d8dbc9ca7e0f061d9a7861"
+  },
+  "role_id": 1,
+  "name": "admin"
+},
+{
+  "_id": {
+    "$oid": "68d8dbc9ca7e0f061d9a7862"
+  },
+  "role_id": 5,
+  "name": "teaching_team"
+},
+{
+  "_id": {
+    "$oid": "68d8dbc9ca7e0f061d9a7863"
+  },
+  "role_id": 6,
+  "name": "it_person"
+}]

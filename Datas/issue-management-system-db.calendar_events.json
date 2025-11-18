@@ -1,0 +1,32 @@
+[{
+  "_id": {
+    "$oid": "68fe33644858c7ba4aced672"
+  },
+  "user_id": {
+    "$oid": "68f8d20c9b620f9fc339a375"
+  },
+  "title": "Meeting 10:00 AM at WZ1101",
+  "date": {
+    "$date": "2025-10-30T00:00:00.000Z"
+  },
+  "created_at": {
+    "$date": "2025-10-26T14:42:44.164Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68fe338a4858c7ba4aced797"
+  },
+  "user_id": {
+    "$oid": "68f8d20c9b620f9fc339a375"
+  },
+  "title": "Assignment",
+  "date": {
+    "$date": "2025-10-28T00:00:00.000Z"
+  },
+  "created_at": {
+    "$date": "2025-10-26T14:43:22.532Z"
+  },
+  "__v": 0
+}]
